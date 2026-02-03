@@ -1,10 +1,10 @@
-# Notebook – Command Line Clue
+# Notes
 
-## Clue 1
-Found the name **The Carpenter** while exploring the park.
+# 
 
-## Clue 2
-In the town hall, dust on the floor indicates a clear path leading to the offices.
+# \- Initial report mentions \*\*The Innkeeper\*\* near the greenhouse.
+
+# \- In the cottage living room, I found a \*\*Silver Watch\*\* and a \*\*Letter Opener\*\*.
 
 
 
